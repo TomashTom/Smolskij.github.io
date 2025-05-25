@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mano puslapis</title>
+    <link>https://tomashtom.github.io/Smolskij.github.io/posts/</link>
+    <description>Recent content in Posts on Mano puslapis</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 May 2025 22:30:00 +0000</lastBuildDate>
+    <atom:link href="https://tomashtom.github.io/Smolskij.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trečias įrašas</title>
+      <link>https://tomashtom.github.io/Smolskij.github.io/posts/trecias-irasas/</link>
+      <pubDate>Sat, 24 May 2025 22:30:00 +0000</pubDate>
+      <guid>https://tomashtom.github.io/Smolskij.github.io/posts/trecias-irasas/</guid>
+      <description>&lt;h2 id=&#34;citata&#34;&gt;Citata&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Šis trečias įrašas pridėtas norint išbandyti dar vieną post&amp;rsquo;ą su papildomu turiniu.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;paveikslėlis&#34;&gt;Paveikslėlis&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cactus_flower.jpg/800px-Cactus_flower.jpg&#34; alt=&#34;Kaktusas&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;bash-kodo-pavyzdys&#34;&gt;Bash kodo pavyzdys&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;echo &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Sveikas, pasauli!&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;ls -la&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Antras puslapis</title>
+      <link>https://tomashtom.github.io/Smolskij.github.io/posts/antras-puslapis/</link>
+      <pubDate>Sat, 24 May 2025 20:00:00 +0000</pubDate>
+      <guid>https://tomashtom.github.io/Smolskij.github.io/posts/antras-puslapis/</guid>
+      <description>&lt;h2 id=&#34;paveikslėlis&#34;&gt;Paveikslėlis&lt;/h2&gt;&#xA;&lt;p&gt;Štai gražus pavyzdinis paveikslėlis:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://picsum.photos/800/300&#34; alt=&#34;Gražus vaizdas&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;kodo-pavyzdys&#34;&gt;Kodo pavyzdys&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;pasisveikink&lt;/span&gt;():&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Labas pasauli!&amp;#34;&lt;/span&gt;)&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Mano pirmasis puslapis</title>
+      <link>https://tomashtom.github.io/Smolskij.github.io/posts/pirmas-irasas/</link>
+      <pubDate>Sat, 24 May 2025 16:00:00 +0000</pubDate>
+      <guid>https://tomashtom.github.io/Smolskij.github.io/posts/pirmas-irasas/</guid>
+      <description>&lt;p&gt;Šis puslapis buvo sukurtas naudojant &lt;code&gt;hugo new&lt;/code&gt; komandą.&lt;br&gt;&#xA;Tai yra pirmas mano įrašas Hugo svetainėje!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;kiti-įrašai&#34;&gt;Kiti įrašai:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;👉 &lt;a href=&#34;https://tomashtom.github.io/Smolskij.github.io/posts/antras-puslapis/&#34;&gt;Antras įrašas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;👉 &lt;a href=&#34;https://tomashtom.github.io/Smolskij.github.io/posts/trecias-irasas/&#34;&gt;Trečias įrašas&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
